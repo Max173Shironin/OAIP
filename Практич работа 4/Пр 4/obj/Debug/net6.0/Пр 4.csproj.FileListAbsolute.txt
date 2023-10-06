@@ -1,0 +1,14 @@
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\bin\Debug\net6.0\Пр 4.exe
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\bin\Debug\net6.0\Пр 4.deps.json
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\bin\Debug\net6.0\Пр 4.runtimeconfig.json
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\bin\Debug\net6.0\Пр 4.dll
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\bin\Debug\net6.0\Пр 4.pdb
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\Пр 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\Пр 4.AssemblyInfoInputs.cache
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\Пр 4.AssemblyInfo.cs
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\Пр 4.csproj.CoreCompileInputs.cache
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\Пр 4.dll
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\refint\Пр 4.dll
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\Пр 4.pdb
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\Пр 4.genruntimeconfig.cache
+C:\Users\Студент.44-2\Desktop\Широнин Безиков\Пр 4\Пр 4\obj\Debug\net6.0\ref\Пр 4.dll
