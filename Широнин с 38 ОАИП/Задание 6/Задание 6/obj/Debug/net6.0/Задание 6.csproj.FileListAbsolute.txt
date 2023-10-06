@@ -1,0 +1,14 @@
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\bin\Debug\net6.0\Задание 6.exe
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\bin\Debug\net6.0\Задание 6.deps.json
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\bin\Debug\net6.0\Задание 6.runtimeconfig.json
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\bin\Debug\net6.0\Задание 6.dll
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\bin\Debug\net6.0\Задание 6.pdb
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\Задание 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\Задание 6.AssemblyInfoInputs.cache
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\Задание 6.AssemblyInfo.cs
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\Задание 6.csproj.CoreCompileInputs.cache
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\Задание 6.dll
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\refint\Задание 6.dll
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\Задание 6.pdb
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\Задание 6.genruntimeconfig.cache
+C:\Users\Wadim\Desktop\Широнин с 38 ОАИП\Задание 6\Задание 6\obj\Debug\net6.0\ref\Задание 6.dll
