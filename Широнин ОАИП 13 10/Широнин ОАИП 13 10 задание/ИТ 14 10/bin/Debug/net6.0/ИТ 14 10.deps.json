@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ИТ 14 10/1.0.0": {
+        "runtime": {
+          "ИТ 14 10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ИТ 14 10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
